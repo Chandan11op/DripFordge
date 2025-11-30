@@ -2,6 +2,9 @@
 
 A comprehensive e-commerce marketplace built with React, TypeScript, Tailwind CSS, and Supabase.
 
+## 🌐 Live Demo
+**[View Live Site](https://your-app-name.vercel.app)** ← Update this after deployment
+
 > **🚀 New here? Start with [START_HERE.md](START_HERE.md) for a quick 5-minute setup guide!**  
 > **📖 Looking for something specific? Check [INDEX.md](INDEX.md) for complete documentation index.**
 
@@ -66,6 +69,19 @@ A comprehensive e-commerce marketplace built with React, TypeScript, Tailwind CS
 - **Backend**: Supabase (PostgreSQL, Auth, Storage, Realtime)
 - **Icons**: Lucide React
 - **Build Tool**: Vite
+
+## Deployment
+
+### Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+
+1. Click the "Deploy" button above or go to [Vercel](https://vercel.com)
+2. Import your GitHub repository
+3. Add environment variables:
+   - `VITE_SUPABASE_URL`
+   - `VITE_SUPABASE_ANON_KEY`
+4. Click "Deploy"
 
 ## Getting Started
 
