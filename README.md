@@ -3,7 +3,7 @@
 A comprehensive e-commerce marketplace built with React, TypeScript, Tailwind CSS, and Supabase.
 
 ## 🌐 Live Demo
-**[View Live Site](https://your-app-name.vercel.app)** ← Update this after deployment
+**https://drip-fordge.vercel.app/**
 
 > **🚀 New here? Start with [START_HERE.md](START_HERE.md) for a quick 5-minute setup guide!**  
 > **📖 Looking for something specific? Check [INDEX.md](INDEX.md) for complete documentation index.**
